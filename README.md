@@ -92,7 +92,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/kawa11/doubi/ma
 
 - 脚本说明: ShadowsocksR 一键安装管理脚本，支持流量控制
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/ss-jc60/
 - 项目地址: https://github.com/kawa11/shadowsocksr
 
 #### 脚本特点:
@@ -424,26 +423,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/kawa11/doubi/ma
 - 下载安装:
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/kawa11/doubi/master/ssr_ip_check.sh && chmod +x ssr_ip_check.sh
-```
-
----
-## ~~pipes.sh~~
-
-- 脚本说明: PipeSocks 一键安装管理脚本（该软件已停更）
-- 系统支持: CentOS7 / Debian7+ / Ubuntu14+
-- 下载安装:
-``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pipesocks/install/master/install.sh && mv install.sh pipes.sh && chmod +x pipes.sh && bash pipes.sh
-```
-
----
-## ~~gogo.sh~~
-
-- 脚本说明: GoGo Tunnel 一键安装管理脚本（该软件已停更）
-- 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
--  下载安装:
-``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/kawa11/doubi/master/gogo.sh && chmod +x gogo.sh && bash gogo.sh
 ```
 
 ---
